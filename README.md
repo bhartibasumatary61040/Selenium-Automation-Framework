@@ -1,6 +1,5 @@
 
 # Selenium Automation Framework (POM + TestNG + Maven)
-
 project:
   name: Selenium-Automation-Framework
   module: SeleniumFrameworkDesign1
