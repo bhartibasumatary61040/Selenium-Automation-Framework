@@ -118,7 +118,6 @@ execution_steps:
     - Update Maven Dependencies
     - Right click on TestNG test file
     - Run as TestNG Test
-
   via_maven:
     command: mvn clean test
 
