@@ -138,4 +138,3 @@ execution_steps:
   - Parallel execution
   - Cross-browser testing
 
-
