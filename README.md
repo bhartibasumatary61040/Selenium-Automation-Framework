@@ -2,7 +2,6 @@
 # Selenium Automation Framework (POM + TestNG + Maven)
 project:
   name: Selenium-Automation-Framework
-  module: SeleniumFrameworkDesign1
   version: 1.0
   description: >
     A structured Selenium Automation Framework developed using
