@@ -3,7 +3,6 @@
 project:
   name: Selenium-Automation-Framework
   module: SeleniumFrameworkDesign1
-  author: Bharti Basumatary
   version: 1.0
   description: >
     A structured Selenium Automation Framework developed using
