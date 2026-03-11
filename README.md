@@ -135,4 +135,3 @@ execution_steps:
   - CI/CD integration (Jenkins/GitHub Actions)
   - Parallel execution
   - Cross-browser testing
-
