@@ -1,6 +1,5 @@
 
 # Selenium Automation Framework (POM + TestNG + Maven)
-  version: 1.0
   description: >
     A structured Selenium Automation Framework developed using
     Java, TestNG, and Maven following the Page Object Model (POM)
