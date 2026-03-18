@@ -7,7 +7,6 @@
     reusability, and maintainability for web application testing.
 
 # Objective
-
   To implement a robust automation framework using
   Selenium WebDriver with proper separation of test logic
   and page logic using Page Object Model.
