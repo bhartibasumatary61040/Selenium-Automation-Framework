@@ -37,9 +37,7 @@ technology_stack:
 project_structure:
 
   SeleniumFrameworkDesign1:
-
-    techbodhipractice:
-
+  
       pageobjects:
         description: >
           Contains all Page Object classes.
